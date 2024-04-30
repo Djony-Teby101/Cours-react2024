@@ -1,2 +1,5 @@
 # Cours-react2024
-ensemble programme de ma formation du la library front-end react JS.
+Ensemble programme de ma formation du la library front-end react JS.
+Creer un projet react: npm create vite@latest.
+                  cd fileNameProject.
+                  npm run dev.
